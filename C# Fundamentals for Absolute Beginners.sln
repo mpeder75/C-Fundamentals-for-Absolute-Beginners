@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Fundamentals for Absolute Beginners", "C# Fundamentals for Absolute Beginners.csproj", "{E8AD66C1-BFE1-4B4F-8CFA-8BD8B6D2362E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Introduction", "1. Introduction", "{B648CA7A-6524-4FBA-99C4-DC713B09DD87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Introduction", "1. Introduction\1. Introduction.csproj", "{8C316C4D-27EA-456F-8663-CB7954818109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E8AD66C1-BFE1-4B4F-8CFA-8BD8B6D2362E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8AD66C1-BFE1-4B4F-8CFA-8BD8B6D2362E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8AD66C1-BFE1-4B4F-8CFA-8BD8B6D2362E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8AD66C1-BFE1-4B4F-8CFA-8BD8B6D2362E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C316C4D-27EA-456F-8663-CB7954818109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C316C4D-27EA-456F-8663-CB7954818109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C316C4D-27EA-456F-8663-CB7954818109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C316C4D-27EA-456F-8663-CB7954818109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C316C4D-27EA-456F-8663-CB7954818109} = {B648CA7A-6524-4FBA-99C4-DC713B09DD87}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {46E86E11-FD58-4C8E-9287-7004A9F756E8}
