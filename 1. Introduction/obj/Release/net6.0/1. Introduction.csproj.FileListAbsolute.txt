@@ -1,0 +1,4 @@
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\1. Introduction\obj\Release\net6.0\1. Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\1. Introduction\obj\Release\net6.0\1. Introduction.AssemblyInfoInputs.cache
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\1. Introduction\obj\Release\net6.0\1. Introduction.AssemblyInfo.cs
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\1. Introduction\obj\Release\net6.0\1. Introduction.csproj.CoreCompileInputs.cache

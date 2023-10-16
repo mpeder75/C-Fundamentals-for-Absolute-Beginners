@@ -5,7 +5,25 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Introduction", "1. Introduction", "{B648CA7A-6524-4FBA-99C4-DC713B09DD87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Introduction", "1. Introduction\1. Introduction.csproj", "{8C316C4D-27EA-456F-8663-CB7954818109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Introduction", "1. Introduction\1. Introduction.csproj", "{8C316C4D-27EA-456F-8663-CB7954818109}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Installere Visual Studio", "2. Installere Visual Studio", "{9347D918-1A07-4C46-8877-D2E288B33DBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Oprette første program", "3. Oprette første program", "{6CF2AE14-EC3B-4598-8D76-05BCCCBE81FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Opret første program", "3. Opret første program\3. Opret første program.csproj", "{4AE2692A-DC9E-42A6-B6D5-CF72E2A5A608}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Dissecting first program", "4. Dissecting first program", "{5AFA1A4B-DF8C-4B32-B369-D2DA2EA4EF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Dissecting the First Program", "4. Dissecting the First Program\4. Dissecting the First Program.csproj", "{A109CF67-3A40-41B6-BED7-18F07EE5BB7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Debugger", "5. Debugger", "{73BCA01B-2F0D-4DBD-B9E2-F5D6947D329C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Debugger", "5. Variabler\5. Debugger.csproj", "{4D0B27D3-014D-4F05-BF46-41B88889260E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Variables", "6. Variables", "{FE3F780F-DBAD-48A9-8334-C76374471A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Variables", "6. Variables\6. Variables.csproj", "{D97D253C-CF47-4F89-A25B-F00B31FA41E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +35,32 @@ Global
 		{8C316C4D-27EA-456F-8663-CB7954818109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C316C4D-27EA-456F-8663-CB7954818109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C316C4D-27EA-456F-8663-CB7954818109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE2692A-DC9E-42A6-B6D5-CF72E2A5A608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE2692A-DC9E-42A6-B6D5-CF72E2A5A608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE2692A-DC9E-42A6-B6D5-CF72E2A5A608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE2692A-DC9E-42A6-B6D5-CF72E2A5A608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A109CF67-3A40-41B6-BED7-18F07EE5BB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A109CF67-3A40-41B6-BED7-18F07EE5BB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A109CF67-3A40-41B6-BED7-18F07EE5BB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A109CF67-3A40-41B6-BED7-18F07EE5BB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0B27D3-014D-4F05-BF46-41B88889260E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0B27D3-014D-4F05-BF46-41B88889260E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0B27D3-014D-4F05-BF46-41B88889260E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0B27D3-014D-4F05-BF46-41B88889260E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97D253C-CF47-4F89-A25B-F00B31FA41E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97D253C-CF47-4F89-A25B-F00B31FA41E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97D253C-CF47-4F89-A25B-F00B31FA41E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97D253C-CF47-4F89-A25B-F00B31FA41E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8C316C4D-27EA-456F-8663-CB7954818109} = {B648CA7A-6524-4FBA-99C4-DC713B09DD87}
+		{4AE2692A-DC9E-42A6-B6D5-CF72E2A5A608} = {6CF2AE14-EC3B-4598-8D76-05BCCCBE81FC}
+		{A109CF67-3A40-41B6-BED7-18F07EE5BB7C} = {5AFA1A4B-DF8C-4B32-B369-D2DA2EA4EF75}
+		{4D0B27D3-014D-4F05-BF46-41B88889260E} = {73BCA01B-2F0D-4DBD-B9E2-F5D6947D329C}
+		{D97D253C-CF47-4F89-A25B-F00B31FA41E1} = {FE3F780F-DBAD-48A9-8334-C76374471A5A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {46E86E11-FD58-4C8E-9287-7004A9F756E8}

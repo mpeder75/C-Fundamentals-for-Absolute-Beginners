@@ -1,0 +1,14 @@
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\bin\Debug\net6.0\5. Debugger.exe
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\bin\Debug\net6.0\5. Debugger.deps.json
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\bin\Debug\net6.0\5. Debugger.runtimeconfig.json
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\bin\Debug\net6.0\5. Debugger.dll
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\bin\Debug\net6.0\5. Debugger.pdb
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\5. Debugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\5. Debugger.AssemblyInfoInputs.cache
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\5. Debugger.AssemblyInfo.cs
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\5. Debugger.csproj.CoreCompileInputs.cache
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\5. Debugger.dll
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\refint\5. Debugger.dll
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\5. Debugger.pdb
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\5. Debugger.genruntimeconfig.cache
+C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\5. Variabler\obj\Debug\net6.0\ref\5. Debugger.dll
