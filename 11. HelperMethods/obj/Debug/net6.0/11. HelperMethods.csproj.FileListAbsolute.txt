@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\bin\Debug\net6.0\11. HelperMethods.exe
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\bin\Debug\net6.0\11. HelperMethods.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\bin\Debug\net6.0\11. HelperMethods.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\bin\Debug\net6.0\11. HelperMethods.dll
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\bin\Debug\net6.0\11. HelperMethods.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\11. HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\11. HelperMethods.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\11. HelperMethods.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\11. HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\11. HelperMethods.dll
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\refint\11. HelperMethods.dll
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\11. HelperMethods.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\11. HelperMethods.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C# Fundamentals For Absolute Beginners\11. HelperMethods\obj\Debug\net6.0\ref\11. HelperMethods.dll

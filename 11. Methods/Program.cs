@@ -1,8 +1,15 @@
-﻿
-/* Methods - betegnes også som et underprogram, eller en funktion */
+﻿/* 
+ Methods - betegnes også som et underprogram, eller en funktion 
+
+ !! Vigtig !! En method skal helst KUN HAVE ET ANSVARSOMRÅDE
+
+ Når en metode kaldes fra main kaldes metodekald/invocation 
+ 
+ En metodes () betegners methodinvocation operators
+*/
 
 
-// Method der printer
+// void Method der printer
 Print("Michael");
 
 void Print(string name)
@@ -12,7 +19,7 @@ void Print(string name)
 
 
 
-// Method der returnere to strings
+// string Method der returnere to strings
 Console.WriteLine(AddTwoStrings("Hello", "world"));
 
 string AddTwoStrings(string a, string b)
