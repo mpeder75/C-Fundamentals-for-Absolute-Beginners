@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\6. Variables\\6. Variables.csproj": {}
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\6. Variables\\6. Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\6. Variables\\6. Variables.csproj": {
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\6. Variables\\6. Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\6. Variables\\6. Variables.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\6. Variables\\6. Variables.csproj",
         "projectName": "6. Variables",
-        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\6. Variables\\6. Variables.csproj",
+        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\6. Variables\\6. Variables.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\6. Variables\\obj\\",
+        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\6. Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",

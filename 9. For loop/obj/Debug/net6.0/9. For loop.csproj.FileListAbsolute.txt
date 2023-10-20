@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\bin\Debug\net6.0\9. For loop.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\bin\Debug\net6.0\9. For loop.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\bin\Debug\net6.0\9. For loop.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\bin\Debug\net6.0\9. For loop.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\bin\Debug\net6.0\9. For loop.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\9. For loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\9. For loop.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\9. For loop.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\9. For loop.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\9. For loop.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\refint\9. For loop.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\9. For loop.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\9. For loop.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\9. For loop\obj\Debug\net6.0\ref\9. For loop.dll

@@ -7,7 +7,7 @@ string userInput = Console.ReadLine();
 Console.WriteLine($"You entered: {userInput}");*/
 
 
-/*
+
 Console.WriteLine("Would you prefer door number: 1, 2, or 3? ");
 string userValue = Console.ReadLine();
 
@@ -28,7 +28,7 @@ if (userValue == "1")
 
 
 Console.WriteLine("Choose door: 1, 2 or 3!");
-string userValue = Console.ReadLine();
+string userInput = Console.ReadLine();
 /*
 string msg = "";
 
@@ -53,5 +53,5 @@ Console.WriteLine(msg);
 
 // Hvis userValue er 1 sættes message til 'boat'
 // ellers sættes message til 'Halloo'
-string message = (userValue == "1") ? "boat" : "Halloo";
+string message = (userInput == "1") ? "boat" : "Halloo";
 Console.WriteLine("You won a {0}", message);

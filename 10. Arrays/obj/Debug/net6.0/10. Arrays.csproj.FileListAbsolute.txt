@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\bin\Debug\net6.0\10. Arrays.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\bin\Debug\net6.0\10. Arrays.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\bin\Debug\net6.0\10. Arrays.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\bin\Debug\net6.0\10. Arrays.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\bin\Debug\net6.0\10. Arrays.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\10. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\10. Arrays.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\10. Arrays.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\10. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\10. Arrays.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\refint\10. Arrays.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\10. Arrays.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\10. Arrays.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\10. Arrays\obj\Debug\net6.0\ref\10. Arrays.dll

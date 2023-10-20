@@ -12,3 +12,17 @@ C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\6. V
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\6. Variables\obj\Debug\net6.0\6. Variables.pdb
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\6. Variables\obj\Debug\net6.0\6. Variables.genruntimeconfig.cache
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\6. Variables\obj\Debug\net6.0\ref\6. Variables.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\bin\Debug\net6.0\6. Variables.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\bin\Debug\net6.0\6. Variables.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\bin\Debug\net6.0\6. Variables.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\bin\Debug\net6.0\6. Variables.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\bin\Debug\net6.0\6. Variables.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\6. Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\6. Variables.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\6. Variables.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\6. Variables.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\6. Variables.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\refint\6. Variables.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\6. Variables.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\6. Variables.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\6. Variables\obj\Debug\net6.0\ref\6. Variables.dll

@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\bin\Debug\net6.0\11. Methods.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\bin\Debug\net6.0\11. Methods.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\bin\Debug\net6.0\11. Methods.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\bin\Debug\net6.0\11. Methods.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\bin\Debug\net6.0\11. Methods.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\11. Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\11. Methods.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\11. Methods.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\11. Methods.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\11. Methods.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\refint\11. Methods.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\11. Methods.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\11. Methods.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\11. Methods\obj\Debug\net6.0\ref\11. Methods.dll
