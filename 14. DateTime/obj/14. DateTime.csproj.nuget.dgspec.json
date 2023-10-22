@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\14. DateTime\\14. DateTime.csproj": {}
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\14. DateTime\\14. DateTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\14. DateTime\\14. DateTime.csproj": {
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\14. DateTime\\14. DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\14. DateTime\\14. DateTime.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\14. DateTime\\14. DateTime.csproj",
         "projectName": "14. DateTime",
-        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\14. DateTime\\14. DateTime.csproj",
+        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\14. DateTime\\14. DateTime.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\14. DateTime\\obj\\",
+        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\14. DateTime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",

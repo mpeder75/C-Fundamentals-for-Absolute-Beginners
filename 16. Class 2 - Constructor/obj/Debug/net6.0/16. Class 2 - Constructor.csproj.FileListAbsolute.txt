@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\bin\Debug\net6.0\16. Class 2 - Constructor.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\bin\Debug\net6.0\16. Class 2 - Constructor.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\bin\Debug\net6.0\16. Class 2 - Constructor.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\bin\Debug\net6.0\16. Class 2 - Constructor.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\bin\Debug\net6.0\16. Class 2 - Constructor.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\16. Class 2 - Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\16. Class 2 - Constructor.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\16. Class 2 - Constructor.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\16. Class 2 - Constructor.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\16. Class 2 - Constructor.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\refint\16. Class 2 - Constructor.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\16. Class 2 - Constructor.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\16. Class 2 - Constructor.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Constructor\obj\Debug\net6.0\ref\16. Class 2 - Constructor.dll

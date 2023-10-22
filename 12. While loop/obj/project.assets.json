@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\12. While loop\\12. While loop.csproj",
+      "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\12. While loop\\12. While loop.csproj",
       "projectName": "12. While loop",
-      "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\12. While loop\\12. While loop.csproj",
+      "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\12. While loop\\12. While loop.csproj",
       "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\12. While loop\\obj\\",
+      "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\12. While loop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",

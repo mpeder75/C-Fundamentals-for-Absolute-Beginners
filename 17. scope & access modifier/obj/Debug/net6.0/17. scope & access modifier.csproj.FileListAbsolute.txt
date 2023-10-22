@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\bin\Debug\net6.0\17. scope & access modifier.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\bin\Debug\net6.0\17. scope & access modifier.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\bin\Debug\net6.0\17. scope & access modifier.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\bin\Debug\net6.0\17. scope & access modifier.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\bin\Debug\net6.0\17. scope & access modifier.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\17. scope & access modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\17. scope & access modifier.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\17. scope & access modifier.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\17. scope & access modifier.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\17. scope & access modifier.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\refint\17. scope & access modifier.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\17. scope & access modifier.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\17. scope & access modifier.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. scope & access modifier\obj\Debug\net6.0\ref\17. scope & access modifier.dll

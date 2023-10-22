@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C# Fundamentals For Absolute Beginners\\11. HelperMethods\\11. HelperMethods.csproj",
+      "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\11. HelperMethods\\11. HelperMethods.csproj",
       "projectName": "11. HelperMethods",
-      "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C# Fundamentals For Absolute Beginners\\11. HelperMethods\\11. HelperMethods.csproj",
+      "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\11. HelperMethods\\11. HelperMethods.csproj",
       "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C# Fundamentals For Absolute Beginners\\11. HelperMethods\\obj\\",
+      "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\11. HelperMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",

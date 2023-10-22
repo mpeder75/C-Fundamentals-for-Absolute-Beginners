@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj": {}
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj": {
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj",
         "projectName": "8. Operators, Expressions, Statements",
-        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj",
+        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\8. Operators, Expressions, Statements\\8. Operators, Expressions, Statements.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C# Fundamentals For Absolute Beginners\\8. Operators, Expressions, Statements\\obj\\",
+        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\8. Operators, Expressions, Statements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",

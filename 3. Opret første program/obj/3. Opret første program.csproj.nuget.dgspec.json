@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\3. Opret første program\\3. Opret første program.csproj": {}
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\3. Opret første program\\3. Opret første program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\3. Opret første program\\3. Opret første program.csproj": {
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\3. Opret første program\\3. Opret første program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\3. Opret første program\\3. Opret første program.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\3. Opret første program\\3. Opret første program.csproj",
         "projectName": "3. Opret første program",
-        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\3. Opret første program\\3. Opret første program.csproj",
+        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\3. Opret første program\\3. Opret første program.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C# Fundamentals For Absolute Beginners\\3. Opret første program\\obj\\",
+        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\3. Opret første program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",

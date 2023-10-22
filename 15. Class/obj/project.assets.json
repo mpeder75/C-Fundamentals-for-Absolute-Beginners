@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\15. Class\\15. Class.csproj",
-      "projectName": "15. Class",
-      "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\15. Class\\15. Class.csproj",
+      "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\15. Class\\15. Class 1.csproj",
+      "projectName": "15. Class 1",
+      "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\15. Class\\15. Class 1.csproj",
       "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\C# Fundamentals for Absolute Beginners\\15. Class\\obj\\",
+      "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\C-Fundamentals-for-Absolute-Beginners\\15. Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",
