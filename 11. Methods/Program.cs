@@ -44,9 +44,7 @@ string PrintMyName(string firstname, string lastname)
 
 
 
-
 // Expression body methods
-
 Gange(5.0, 6.0);
 
 static double Gange(double a, double b) => a * b;

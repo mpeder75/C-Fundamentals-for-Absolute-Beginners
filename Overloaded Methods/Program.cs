@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Overloaded_methods;
+
+TestNoget myTest = new TestNoget();
+
+Console.WriteLine(myTest.Test(5));
+Console.WriteLine(myTest.Test(5,5));
+Console.WriteLine(myTest.Test(5,5,5));
+
