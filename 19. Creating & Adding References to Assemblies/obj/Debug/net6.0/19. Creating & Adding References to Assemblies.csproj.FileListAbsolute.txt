@@ -1,0 +1,5 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\19. Creating & Adding References to Assemblies\obj\Debug\net6.0\19. Creating & Adding References to Assemblies.csproj.AssemblyReference.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\19. Creating & Adding References to Assemblies\obj\Debug\net6.0\19. Creating & Adding References to Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\19. Creating & Adding References to Assemblies\obj\Debug\net6.0\19. Creating & Adding References to Assemblies.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\19. Creating & Adding References to Assemblies\obj\Debug\net6.0\19. Creating & Adding References to Assemblies.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\19. Creating & Adding References to Assemblies\obj\Debug\net6.0\19. Creating & Adding References to Assemblies.csproj.CoreCompileInputs.cache

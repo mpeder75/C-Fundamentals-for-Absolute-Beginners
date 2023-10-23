@@ -1,0 +1,4 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\1. Introduction\obj\Debug\net6.0\1. Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\1. Introduction\obj\Debug\net6.0\1. Introduction.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\1. Introduction\obj\Debug\net6.0\1. Introduction.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\1. Introduction\obj\Debug\net6.0\1. Introduction.csproj.CoreCompileInputs.cache

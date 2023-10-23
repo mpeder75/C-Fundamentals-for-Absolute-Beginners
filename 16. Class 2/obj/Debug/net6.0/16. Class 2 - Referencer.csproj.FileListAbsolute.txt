@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\bin\Debug\net6.0\16. Class 2 - Referencer.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\bin\Debug\net6.0\16. Class 2 - Referencer.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\bin\Debug\net6.0\16. Class 2 - Referencer.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\bin\Debug\net6.0\16. Class 2 - Referencer.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\bin\Debug\net6.0\16. Class 2 - Referencer.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\16. Class 2 - Referencer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\16. Class 2 - Referencer.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\16. Class 2 - Referencer.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\16. Class 2 - Referencer.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\16. Class 2 - Referencer.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\refint\16. Class 2 - Referencer.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\16. Class 2 - Referencer.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\16. Class 2 - Referencer.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2\obj\Debug\net6.0\ref\16. Class 2 - Referencer.dll

@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\bin\Debug\net6.0\16. Class 2 - Static keyword.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\bin\Debug\net6.0\16. Class 2 - Static keyword.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\bin\Debug\net6.0\16. Class 2 - Static keyword.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\bin\Debug\net6.0\16. Class 2 - Static keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\bin\Debug\net6.0\16. Class 2 - Static keyword.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\16. Class 2 - Static keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\16. Class 2 - Static keyword.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\16. Class 2 - Static keyword.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\16. Class 2 - Static keyword.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\16. Class 2 - Static keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\refint\16. Class 2 - Static keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\16. Class 2 - Static keyword.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\16. Class 2 - Static keyword.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\16. Class 2 - Static keyword\obj\Debug\net6.0\ref\16. Class 2 - Static keyword.dll

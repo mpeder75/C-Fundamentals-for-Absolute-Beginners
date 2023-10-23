@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\bin\Debug\net6.0\3. Opret første program.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\bin\Debug\net6.0\3. Opret første program.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\bin\Debug\net6.0\3. Opret første program.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\bin\Debug\net6.0\3. Opret første program.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\bin\Debug\net6.0\3. Opret første program.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\3. Opret første program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\3. Opret første program.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\3. Opret første program.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\3. Opret første program.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\3. Opret første program.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\refint\3. Opret første program.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\3. Opret første program.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\3. Opret første program.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\3. Opret første program\obj\Debug\net6.0\ref\3. Opret første program.dll

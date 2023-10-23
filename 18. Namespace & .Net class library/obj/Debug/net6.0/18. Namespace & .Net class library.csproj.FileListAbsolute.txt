@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\bin\Debug\net6.0\18. Namespace & .Net class library.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\bin\Debug\net6.0\18. Namespace & .Net class library.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\bin\Debug\net6.0\18. Namespace & .Net class library.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\bin\Debug\net6.0\18. Namespace & .Net class library.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\bin\Debug\net6.0\18. Namespace & .Net class library.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\18. Namespace & .Net class library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\18. Namespace & .Net class library.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\18. Namespace & .Net class library.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\18. Namespace & .Net class library.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\18. Namespace & .Net class library.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\refint\18. Namespace & .Net class library.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\18. Namespace & .Net class library.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\18. Namespace & .Net class library.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\18. Namespace & .Net class library\obj\Debug\net6.0\ref\18. Namespace & .Net class library.dll

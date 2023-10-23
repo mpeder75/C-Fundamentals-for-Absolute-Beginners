@@ -12,3 +12,17 @@ C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\12. 
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\12. While loop\obj\Debug\net7.0\12. While loop.pdb
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\12. While loop\obj\Debug\net7.0\12. While loop.genruntimeconfig.cache
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\12. While loop\obj\Debug\net7.0\ref\12. While loop.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\bin\Debug\net7.0\12. While loop.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\bin\Debug\net7.0\12. While loop.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\bin\Debug\net7.0\12. While loop.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\bin\Debug\net7.0\12. While loop.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\bin\Debug\net7.0\12. While loop.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\12. While loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\12. While loop.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\12. While loop.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\12. While loop.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\12. While loop.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\refint\12. While loop.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\12. While loop.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\12. While loop.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\12. While loop\obj\Debug\net7.0\ref\12. While loop.dll

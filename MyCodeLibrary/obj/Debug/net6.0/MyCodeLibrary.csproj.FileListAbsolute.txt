@@ -1,0 +1,11 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\bin\Debug\net6.0\MyCodeLibrary.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\bin\Debug\net6.0\MyCodeLibrary.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\bin\Debug\net6.0\MyCodeLibrary.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\MyCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\MyCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\MyCodeLibrary.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\MyCodeLibrary.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\refint\MyCodeLibrary.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\MyCodeLibrary.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\obj\Debug\net6.0\ref\MyCodeLibrary.dll

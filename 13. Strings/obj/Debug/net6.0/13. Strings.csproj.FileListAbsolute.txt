@@ -12,3 +12,17 @@ C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\13. 
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\13. Strings\obj\Debug\net6.0\13. Strings.pdb
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\13. Strings\obj\Debug\net6.0\13. Strings.genruntimeconfig.cache
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\13. Strings\obj\Debug\net6.0\ref\13. Strings.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\bin\Debug\net6.0\13. Strings.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\bin\Debug\net6.0\13. Strings.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\bin\Debug\net6.0\13. Strings.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\bin\Debug\net6.0\13. Strings.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\bin\Debug\net6.0\13. Strings.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\13. Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\13. Strings.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\13. Strings.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\13. Strings.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\13. Strings.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\refint\13. Strings.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\13. Strings.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\13. Strings.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\13. Strings\obj\Debug\net6.0\ref\13. Strings.dll

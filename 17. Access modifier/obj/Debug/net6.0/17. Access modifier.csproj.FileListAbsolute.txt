@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\bin\Debug\net6.0\17. Access modifier.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\bin\Debug\net6.0\17. Access modifier.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\bin\Debug\net6.0\17. Access modifier.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\bin\Debug\net6.0\17. Access modifier.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\bin\Debug\net6.0\17. Access modifier.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\17. Access modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\17. Access modifier.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\17. Access modifier.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\17. Access modifier.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\17. Access modifier.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\refint\17. Access modifier.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\17. Access modifier.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\17. Access modifier.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\17. Access modifier\obj\Debug\net6.0\ref\17. Access modifier.dll

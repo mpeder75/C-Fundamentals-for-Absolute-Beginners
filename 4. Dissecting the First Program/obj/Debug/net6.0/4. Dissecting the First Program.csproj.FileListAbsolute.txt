@@ -12,3 +12,17 @@ C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\4. D
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.pdb
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.genruntimeconfig.cache
 C:\Users\mpede\source\repos\mpeder75\C# Fundamentals for Absolute Beginners\4. Dissecting the First Program\obj\Debug\net6.0\ref\4. Dissecting the First Program.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\bin\Debug\net6.0\4. Dissecting the First Program.exe
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\bin\Debug\net6.0\4. Dissecting the First Program.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\bin\Debug\net6.0\4. Dissecting the First Program.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\bin\Debug\net6.0\4. Dissecting the First Program.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\bin\Debug\net6.0\4. Dissecting the First Program.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\refint\4. Dissecting the First Program.dll
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.pdb
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\4. Dissecting the First Program.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\C-Fundamentals-for-Absolute-Beginners\4. Dissecting the First Program\obj\Debug\net6.0\ref\4. Dissecting the First Program.dll
